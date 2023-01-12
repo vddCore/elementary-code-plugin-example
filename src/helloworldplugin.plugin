@@ -1,0 +1,9 @@
+[Plugin]
+Name=Hello World Plugin
+Module=helloworldplugin
+Loader=C
+IAge=2
+Description=Basic Hello World Plugin
+Authors=Somebody
+Copyright=Nope
+Website=https://your.url.here/

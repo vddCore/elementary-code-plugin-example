@@ -1,0 +1,6 @@
+Do not use these out of box!
+
+Make sure you have the latest .vapi and .h
+from the latest Code project release.
+
+That you have to build yourself, same goes for the lib/ directory.
